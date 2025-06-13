@@ -1,0 +1,6 @@
+# My Personal and Academic Goals for Next Year
+- Complete a professional certification in data analytics or AI.
+- Transition into a tech-focused role in data science or AI.
+- Contribute to at least one open-source project on GitHub.
+- Start a personal project that applies AI or data analysis to a real-world problem.
+- Continue learning advanced Excel, Python, and Git.
