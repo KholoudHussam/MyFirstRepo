@@ -1,1 +1,1 @@
- I've learned how to collaborate on GitHub using clone, commit, and push.
+I’ve learned how to use Git, clone repositories, create and commit files, and push them to GitHub.
